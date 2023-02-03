@@ -19,7 +19,7 @@
   <img align="center" alt="Higor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Higor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Higor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Higor Avatar" height="150" style="border-radius:60;" 
+  <img align="right" alt="Higor-Avatar" height="150" style="border-radius:60;" 
   src="https://im.ezgif.com/tmp/ezgif-1-6ab7e392de.gif"/>
 </div>
   
