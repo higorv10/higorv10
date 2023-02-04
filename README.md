@@ -32,9 +32,6 @@
   
 </div>
   
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/higorv10/count.svg" /></p>
-![snake gif](https://github.com/higorv10/higorv10/blob/output/github-contribution-grid-snake.svg)
-  
 
 
 
