@@ -32,6 +32,9 @@
   
 </div>
   
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/higorv10/count.svg" /></p>
+
+  
 
 
 
