@@ -18,9 +18,8 @@
   <img align="center" alt="Higor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Higor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Higor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Higor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Higor-Avatar" height="150" style="border-radius:60;" 
-  src="https://imgflip.com/gif/79wo9m"/>
+  <img align="center" alt="Higor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" alt="Higor-Avatar" height="150" style="border-radius:60;" src="https://imgur.com/a/EMVGZ7i">
 </div>
   
    ##
