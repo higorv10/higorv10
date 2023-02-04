@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/higorv10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorv10&hide=contribs,prs&show_icons=true&theme=dracula"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorv10&theme=dracula&layout=compact"/>
+  <img height="150"src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorv10&theme=dracula&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>
