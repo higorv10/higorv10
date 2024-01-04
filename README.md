@@ -3,8 +3,7 @@
 
 
 - 🔭 Atualmente curso Análise e Desinvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS, JavaScript, Python, SQL e Java.
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando HTML, CSS, JavaScript.
 
 
 <div>
