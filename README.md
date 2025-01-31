@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP) e estou em busca de uma primeira oportundiade.
-- 🌱 Estudando HTML, CSS, JavaScript.
+- 📚 Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP).
+- 💻 Atualmente estou  estudando Java, Python, C e SQL, juntamente com suas aplicações. possuo conhecimento em HTML, CSS e JavaScript.
+- 🎈 Estou em busca de uma primeira oportunidade no mercado de trabalho e na área de TI.
 
 
 <div>
