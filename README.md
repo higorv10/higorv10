@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente curso Análise e Desinvolvimento de Sistemas
+- 🔭 Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Informática e Administração Paulista (FIAP) e estou em busca de uma primeira oportundiade.
 - 🌱 Estudando HTML, CSS, JavaScript.
 
 
