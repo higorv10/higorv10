@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<h3 align="center"> 🖥Linguagens, Tecnologias e Ferramentas</h3>
+<h3 align="center"> 🖥 Linguagens, Tecnologias e Ferramentas</h3>
 
 ###
 
