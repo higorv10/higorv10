@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">💡 Bem-Vindo ao meu GitHub!</h1>
+<h1 align="center"> 💡 Bem-Vindo ao meu GitHub!</h1>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">Repositório de Projetos</h3>
+<h3 align="left">Repositórios de Projetos 🚀</h3>
 
 ###
 
