@@ -56,7 +56,7 @@
 
 <p align="left">🎨 Front-End: Desenvolvimento de interfaces e landing pages utilizando HTML, CSS e JavaScript. <br>
             <br> 🐍 Python: Criação de pequenos sistemas com soluções práticas para escolas e comércios, com foco em simplificação de processos e automação de tarefas.<br>
-            <br> ☕ Java: Desenvolvimento de pequenos sistemas para aprender a sintaxe e a lógica de programação em Java, com o objetivo de criar soluções eficientes e práticas.<br>
+            <br> ☕ Java: Desenvolvimento de pequenos sistemas para aprender a sintaxe e a lógica de programação, com o objetivo de criar soluções eficientes e práticas.<br>
             <br> 💾 SQL: Execução de operações CRUD utilizando Oracle SQL para armazenar, manipular e consultar dados, em banco de dados, de um aplicativo fintech.<br>
             <br> 🎈 Desafios de Codificação: Resolução de exercícios focados na otimização e melhoria de códigos, com ênfase em boas práticas de desenvolvimento e aprimoramento contínuo das minhas habilidades de programação.<br>
 
