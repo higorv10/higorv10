@@ -20,7 +20,7 @@
 ###
 
 <p align="left">🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas pela FIAP (Faculdade de Informática e Administração Paulista).<br>
-            <br>🔧 Linguagens em aprendizado: Java, Python, C# e SQL. Estou me aprofundando em aplicações práticas por meio do curso Harvard CS50x e do Bootcamp Bradesco Java Cloud Native.<br>
+            <br>🔧 Linguagens em aprendizado: Java, Python, C# e SQL. Estou me aprofundando em aplicações práticas por meio do curso Harvard CS50x e do Free Foundational C# with Microsoft Certification.<br>
             <br>🎯 Objetivo: Busco oportunidades no mercado de TI, focando em desenvolvimento de software e projetos que me ajudem a aprimorar meu portfólio.<br>
             <br>📚 Aprendizado contínuo: Estou sempre em busca de novos desafios que contribuam para meu crescimento como desenvolvedor.</p>
 
