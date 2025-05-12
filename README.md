@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNndGpreDFzYjgwbjM1OXYxam50OTdxNjAzMG1yc3lvOHk3MDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif" />
+  <img height="215" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNndGpreDFzYjgwbjM1OXYxam50OTdxNjAzMG1yc3lvOHk3MDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif" />
 </div>
 
 # 🌌 Bem-vindo ao meu GitHub!
@@ -76,9 +76,9 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 
   > “The Force will be with you. Always.” — Obi-Wan Kenobi ✨
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBhd3NpNnB6OTJiajBhMG50bHk0amc3bWYwZGp1N2t6ajludWNzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C54V1zCQx2LaXY88Xg/giphy.gif" />
+  <img height="215" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBhd3NpNnB6OTJiajBhMG50bHk0amc3bWYwZGp1N2t6ajludWNzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C54V1zCQx2LaXY88Xg/giphy.gif" />
 </div>
 
 <div align="center">
-   <strong>🌌Que a Força esteja com você!🌌</strong>
+   <strong>🌌 Que a Força esteja com você! 🌌</strong>
 </div>
