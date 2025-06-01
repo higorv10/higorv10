@@ -3,7 +3,7 @@
 </div>
 
 # 🌌 Bem-vindo ao meu GitHub!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=19&duration=3000&pause=1000&color=FEDA4A&width=435&lines=Higor+Vilela+%7C+Jornada+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=19&duration=3000&pause=1000&color=FEDA4A&width=435&lines=Higor+Vilela+%7C+Jornada+Back-end)](https://git.io/typing-svg)
 
 > “Do. Or do not. There is no try.” — Yoda 🧘‍♂️
 
@@ -20,8 +20,7 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 
 - **CS50x** – Harvard  
 - **Foundational C#** – Microsoft  
-- **Full Stack** – FreeCodeCamp  
-- Atualmente estudando **C#**, **React**, **JavaScript** e reforçando fundamentos de lógica e computação.
+- Atualmente estudando **Java**, **Python**, **C#** e reforçando fundamentos de lógica de programação.
 
 > “This is the way.” — The Mandalorian 🛡️
 
@@ -29,7 +28,7 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 
 <div align="center">
   <strong>🛠️ Linguagens, Tecnologias e Ferramentas </strong><br><br>
-  <img src="https://skillicons.dev/icons?i=java,py,cs,html,css,figma,spring,mongodb,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,py,cs,spring,figma,mongodb,mysql" height="50" />
 </div>
 
 ---
@@ -37,10 +36,10 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 ## 📂 Repositórios em Destaque 
 
 - [Banco Digital em Java](https://github.com/higorv10/dio-banco-digital)
-- [API REST com Spring Boot - Estrutura Bancária](https://github.com/higorv10/dio-api)
-- [API REST com Spring Boot - Gerenciamento de Clientes](https://github.com/higorv10/dio-spring)
-- [Task Board em Java](https://github.com/higorv10/dio-board)
-- [Sudoku em Java](https://github.com/higorv10/dio-sudoku)
+- [API REST com Spring Boot - Estrutura Bancária](https://github.com/higorv10/banco-api)
+- [API REST com Spring Boot - Gerenciamento de Clientes](https://github.com/higorv10/clientes-api)
+- [TasksBoard em Java](https://github.com/higorv10/tasksboard)
+- [Sudoku em Java](https://github.com/higorv10/sudoku)
 - [Linux com Docker Swarm](https://github.com/higorv10/dio-docker-swarm)
 
 > “The greatest teacher, failure is.” — Yoda 📚
