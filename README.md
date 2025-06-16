@@ -36,8 +36,8 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 ## 📂 Repositórios em Destaque 
 
 - [Banco Digital em Java](https://github.com/higorv10/dio-banco-digital)
-- [API REST com Spring Boot - Estrutura Bancária](https://github.com/higorv10/banco-api)
-- [API REST com Spring Boot - Gerenciamento de Clientes](https://github.com/higorv10/clientes-api)
+- [API REST com Spring Boot - Estrutura Bancária](https://github.com/higorv10/bank-api)
+- [API REST com Spring Boot - Gerenciamento de Clientes](https://github.com/higorv10/clients-api)
 - [TasksBoard em Java](https://github.com/higorv10/tasksboard)
 - [Sudoku em Java](https://github.com/higorv10/sudoku)
 - [Linux com Docker Swarm](https://github.com/higorv10/dio-docker-swarm)
