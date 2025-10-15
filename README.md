@@ -19,9 +19,7 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 ## 📚 Aprendizado Atual 
 
 - **CS50x** – Harvard  
-- **Foundational C#** – Microsoft  
-- Atualmente estudando **Java**, **Python**, **C#** e reforçando fundamentos de lógica de programação.
-
+- Focado no aprendizado de **Java** e **Spring**
 > “This is the way.” — The Mandalorian 🛡️
 
 ---
@@ -79,5 +77,5 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 </div>
 
 <div align="center">
-   <strong>🌌 Que a Força esteja com você! 🌌</strong>
+   <strong>🌌Que a Força esteja com você!🌌</strong>
 </div>
