@@ -20,7 +20,7 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 
 <div align="center">
   <strong>🛠️ Linguagens, Tecnologias e Ferramentas </strong><br><br>
-  <img src="https://skillicons.dev/icons?i=java,py,cs,spring,figma,mongodb,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,spring,figma,mongodb,mysql" height="50" />
 </div>
 
 ---
