@@ -5,7 +5,7 @@
 # 🌌 Bem-vindo ao meu GitHub!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=19&duration=3000&pause=1000&color=FEDA4A&width=435&lines=Higor+Vilela+%7C+Jornada+Back-end)](https://git.io/typing-svg)
 ## 👨‍💻 Sobre Mim 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela FIAP (Faculdade de Informática e Administração Paulista). Tenho direcionado meus estudos à construção de uma base técnica consistente, com o objetivo de desenvolver soluções aplicáveis a contextos reais.
+Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP (Faculdade de Informática e Administração Paulista). Tenho direcionado meus estudos à construção de uma base técnica consistente, com o objetivo de desenvolver soluções aplicáveis a contextos reais.
 Busco compreender como a tecnologia pode ser utilizada de forma estratégica, eficiente e com propósito, mantendo uma evolução profissional contínua.
 > “Always remember, your focus determines your reality.” — Qui-Gon Jinn 🔮
 
