@@ -1,31 +1,32 @@
-<div align="center">
-  <img height="215" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNndGpreDFzYjgwbjM1OXYxam50OTdxNjAzMG1yc3lvOHk3MDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif" />
-</div>
+# 👋 Hello There!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=19&duration=3000&pause=1000&color=5140fe&width=435&lines=Higor+Vilela+%7C+Backend+Developer)](https://git.io/typing-svg)
 
-# 🌌 Bem-vindo ao meu GitHub!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=19&duration=3000&pause=1000&color=FEDA4A&width=435&lines=Higor+Vilela+%7C+Jornada+Back-end)](https://git.io/typing-svg)
-## 👨‍💻 Sobre Mim 
-Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP (Faculdade de Informática e Administração Paulista). Tenho direcionado meus estudos à construção de uma base técnica consistente, com o objetivo de desenvolver soluções aplicáveis a contextos reais.
-Busco compreender como a tecnologia pode ser utilizada de forma estratégica, eficiente e com propósito, mantendo uma evolução profissional contínua.
+## 🔖 About
+I am a technologist in Systems Analysis and Development from FIAP (Faculdade de Informática e Administração Paulista). I have directed my studies towards building a solid technical foundation, with the goal of developing solutions applicable to real-world contexts.
+My focus is on understanding how technology can be used strategically, efficiently, and purposefully, while maintaining continuous professional development.
 > “Always remember, your focus determines your reality.” — Qui-Gon Jinn 🔮
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/higor-vilela10/" target="_blank" title="LinkedIn: Higor Vilela"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33" alt="LinkedIn Profile" /></a>&nbsp;&nbsp;<a href="mailto:4hv@protonmail.com" title="Email: 4hv@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" height="33" alt="4hv@protonmail.com" /></a>
+</div>
 
 ---
 
-## 📚 Aprendizado Atual 
+## ☕ Current Learning
 
 - **CS50x** – Harvard  
-- Focado no aprendizado de **Java** e **Spring**
+- Focused on learning **Java**, **Spring**, and **Microservices**.
   
 ---
 
 <div align="center">
-  <strong>🛠️ Linguagens, Tecnologias e Ferramentas </strong><br><br>
-  <img src="https://skillicons.dev/icons?i=java,py,c,spring,figma,mongodb,mysql" height="50" />
+  <strong> 👨‍💻Languages, Frameworks and Databases </strong><br><br>
+  <img src="https://skillicons.dev/icons?i=java,c,py,flask,spring,mongodb,mysql,sqlite" height="50" />
 </div>
 
 ---
 
-## 📂 Repositórios em Destaque 
+## 📂 Recent projects
 
 - [Banco Digital em Java](https://github.com/higorv10/dio-banco-digital)
 - [API REST com Spring Boot - Estrutura Bancária](https://github.com/higorv10/bank-api)
@@ -35,25 +36,8 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 - [Linux com Docker Swarm](https://github.com/higorv10/dio-docker-swarm)
 
 > “The greatest teacher, failure is.” — Yoda 📚
----
-
-<div align="center">
-  <strong> 📞 Contato </strong><br><br>
-  <a href="https://www.linkedin.com/in/higor-vilela10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  </a>
-  <a href="mailto:4hv@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=6D4AFF&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  </a>
-</div>
 
 ---
-
-<div align="center">
-  <strong> 📊 Estatísticas </strong><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=higorv10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=higorv10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
-</div>
 
 <div align="center">
 <picture>
@@ -66,10 +50,4 @@ Busco compreender como a tecnologia pode ser utilizada de forma estratégica, ef
 ---
 
   > “The Force will be with you. Always.” — Obi-Wan Kenobi ✨
-<div align="center">
-  <img height="215" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBhd3NpNnB6OTJiajBhMG50bHk0amc3bWYwZGp1N2t6ajludWNzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C54V1zCQx2LaXY88Xg/giphy.gif" />
-</div>
 
-<div align="center">
-   <strong>🌌 Que a Força esteja com você! 🌌</strong>
-</div>
