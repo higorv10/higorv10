@@ -15,14 +15,25 @@ My focus is on understanding how technology can be used strategically, efficient
 ## ☕ Current Learning
 
 - **CS50x** – Harvard  
-- Focused on learning **Java**, **Spring**, and **Microservices**.
+- Focused on learning **Java**, **Spring Boot**, and **Microservices**.
   
 ---
 
 <div align="center">
-  <strong> 👨‍💻Languages, Frameworks and Databases </strong><br><br>
-  <img src="https://skillicons.dev/icons?i=java,c,py,flask,spring,mongodb,mysql,sqlite" height="50" />
+  <h2 align="left">🚀 Tech Stack</h1>
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="100" alt="Java and Spring Boot" />
 </div>
+
+<div align="center">
+  <h2 align="left">🗄️ Persistence </h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" height="60" />
+</div>
+
+<div align="center">
+  <h2 align="left">🌐 Ecosystem</h3>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman,maven,gradle&theme=dark" height="60" />
+</div>
+
 
 ---
 
