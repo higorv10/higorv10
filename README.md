@@ -41,9 +41,9 @@ My focus is on understanding how technology can be used strategically, efficient
 
 - [Projeto Final do CS50x - CS50 Bank](https://github.com/higorv10/cs50-bank)
 - [API REST - Gerenciamento de Clientes](https://github.com/higorv10/clients-api)
-- [Banco Digital em Java](https://github.com/higorv10/dio-banco-digital)
-- [TasksBoard em Java](https://github.com/higorv10/tasksboard)
-- [Sudoku em Java](https://github.com/higorv10/sudoku)
+- [Banco Digital](https://github.com/higorv10/dio-banco-digital)
+- [TasksBoard](https://github.com/higorv10/tasksboard)
+- [Sudoku](https://github.com/higorv10/sudoku)
 - [Linux com Docker Swarm](https://github.com/higorv10/dio-docker-swarm)
 
 > “The greatest teacher, failure is.” — Yoda 📚
