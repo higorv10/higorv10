@@ -37,11 +37,11 @@ My focus is on understanding how technology can be used strategically, efficient
 
 ---
 
-## 📂 Recent projects
+## 📂 Most Recent Projects
 
+- [Projeto Final do CS50x - CS50 Bank](https://github.com/higorv10/cs50-bank)
+- [API REST - Gerenciamento de Clientes](https://github.com/higorv10/clients-api)
 - [Banco Digital em Java](https://github.com/higorv10/dio-banco-digital)
-- [API REST com Spring Boot - Estrutura Bancária](https://github.com/higorv10/bank-api)
-- [API REST com Spring Boot - Gerenciamento de Clientes](https://github.com/higorv10/clients-api)
 - [TasksBoard em Java](https://github.com/higorv10/tasksboard)
 - [Sudoku em Java](https://github.com/higorv10/sudoku)
 - [Linux com Docker Swarm](https://github.com/higorv10/dio-docker-swarm)
